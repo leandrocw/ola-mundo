@@ -1,6 +1,6 @@
-# Olá, mundo
+# Git e GitHub
  *Primeiro repositorio*
 
-Repositório do prof gustavo guanabara
+Material do Git e GitHub
 
 **essa linha eu adicionei diretamente no site!!!!!**
